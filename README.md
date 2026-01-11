@@ -3,15 +3,15 @@ fireworks in python.
 
 # What needs to be done
 
-1.Make sure python is installed in your computer
+1. Make sure python is installed in your computer
 
-2.Locate the project path and Run the following commands on your terminal
+2. Locate the project path and Run the following commands on your terminal
 
   pip install pyinstaller windows-curses
   
   pip install pygame
   
-3.Run the exe or you can run the actual code so you can customize it later
+3. Run the exe or you can run the actual code so you can customize it later
 
 To run the actual code run this on your terminal
 
